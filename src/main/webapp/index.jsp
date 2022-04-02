@@ -205,7 +205,8 @@
 					browser to manipulate text, images, and other
 					content to display it in the required format.
 				</p>
-
+				<p> new line </p>
+    
 
 			</div>
 		</div>
